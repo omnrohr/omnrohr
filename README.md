@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omnrohr
 - 👀 I’m interested To follow the latest in the world of web security.
-- 🌱 I’m currently learning Python and web development.
+- 🌱 I’m currently learning Python and App development.
 - 💞️ I’m looking to collaborate on marketplace projects.
 - 📫 mail me omnrorh@gmial.com
 
